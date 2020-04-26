@@ -1,3 +1,3 @@
-module github.com/guaychou/learnalgorithm
+module github.com/guaychou/learnAlgorithmWithGo
 
 go 1.13
